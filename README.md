@@ -4,7 +4,7 @@
 
 Submitted by: Catherine Huang
 
-Time spent: 2 hours spent in total
+Time spent: 3 hours spent in total
 
 Link to project: https://glitch.com/edit/#!/tar-massive-snowboard?path=README.md%3A6%3A0
 
